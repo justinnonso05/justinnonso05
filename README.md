@@ -1,21 +1,19 @@
 <h1 align="center">Hi 👋, I'm Justin Chinonso</h1>
 <h3 align="center">Fullstack Developer || AI/ML Enthusiast || Backend Developer || Computer Science Student</h3>
 
+[![wakatime](https://wakatime.com/badge/user/afd8c1c5-81e3-483b-97b9-1d09c0f526a2.svg)](https://wakatime.com/@afd8c1c5-81e3-483b-97b9-1d09c0f526a2)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=justinnonso05&label=Profile%20views&color=0e75b6&style=flat" alt="justinnonso05" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=justinnonso05" alt="justinnonso05" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=justinnonso05" alt="justinnonso05" /></a> </p> -->
 
 <p align="left"> <a href="https://twitter.com/justondev" target="blank"><img src="https://img.shields.io/twitter/follow/justondev?logo=twitter&style=for-the-badge" alt="justondev" /></a> </p>
 
-- 🔭 I’m currently working on [Duespay](https://duespay.app)
-
 - 👯 I’m looking to collaborate on **Open source problems**
 
-- 👨‍💻 All of my projects are available at [https://www.justinchinonso.tech](https://www.justinchinonso.tech)
+- 👨‍💻 All of my projects are available at [https://www.justinch.dev](https://www.justinch.dev)
 
 - 📫 How to reach me **chinonsoali2005@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1jpR77Gq0q5iiAcn0xeV0kKrqVilBIo83/view?usp=sharing](https://drive.google.com/file/d/1jpR77Gq0q5iiAcn0xeV0kKrqVilBIo83/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
